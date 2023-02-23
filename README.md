@@ -1,0 +1,1 @@
+# storybook-decorator-bug
